@@ -1,0 +1,2 @@
+# AndroidPlayer_YouTube_Internal-Videos
+Construction of a musical instrument to reproduce music and lyrics from Youtube using Youtube Android Player Api for playback functionality ,Youtube Data Api to search for videos matching specific search terms and musixmatch Api for the lyrics. Also i use Retrofit to make Api request and handle callbacks and Room Api to save video Id ,title etc. The same functionality is provided for internal videos
